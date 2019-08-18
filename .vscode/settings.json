@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "folder1/func2.c" : true
+    },
+    "C_Cpp.exclusionPolicy": "checkFilesAndFolders",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "cmake.configureOnOpen": false
+}
